@@ -1,15 +1,15 @@
 # ATM-project
 
-##Description
+## Description
 This has code for an ATM interface. You can deposit or withdraw money.
 
-##Installation and Usage
+## Installation and Usage
 Clone repository or download files. You can customize the styles.css file.
 
-##Future Improvements
+## Future Improvements
 I will customize the styles.css file to make the interface more appealing.
 
-##License Info
+## License Info
 MIT Copyright (c) 2023 Elizabeth Goldston
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
